@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.idea/*
+/gradle
+.gitignore.swp
+app/app.iml
+Starun.iml
+gradle.properties
+*.bat
+settings.gradle
